@@ -1,0 +1,22 @@
+.name::first-letter{
+    color:red;
+}
+.mainpage{
+  background-image: url();
+}
+.gopeshwar{
+    font-family: "Foldit", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: weight;
+  font-style: normal;
+  }
+
+  .about{
+  font-family: "Handjet", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: weight;
+  font-style: normal;
+  font-variation-settings:
+    "ELGR" 1,
+    "ELSH" 2;
+  }
