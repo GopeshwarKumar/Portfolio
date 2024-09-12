@@ -12,7 +12,7 @@ function Skills() {
     <div className='mt-[3%] w-screen grid grid-cols-2 md:grid-cols-3 place-items-center gap-[2vh] md:gap-[4vh] md:px-[2vh] '>
 
     <Tilt>
-      <div className='w-[30vh] md:w-[25vh] h-[30vh] bg-gradient-to-tr from-pink-500 to-yellow-200 flex flex-col items-center gap-[8vh] rounded-[10px]'>
+      <div className='sm:w-[30vh] 2xl:w-[35vh] xl:w-[35vh] w-[25vh] md:w-[25vh] h-[30vh] bg-gradient-to-tr from-pink-500 to-yellow-200 flex flex-col items-center gap-[8vh] rounded-[10px]'>
       <IoLogoHtml5  className='font-bold text-red-600 text-center text-[10vh] mt-[3vh] transition-all hover:shadow-xl hover:scale-[1.3] hover:skew-y-6'/>
 
       <p className='text-center font-bold tracking-wider'>HTML<br/>
@@ -23,7 +23,7 @@ function Skills() {
       </Tilt>
 
       <Tilt>
-      <div className='w-[30vh] md:w-[25vh] h-[30vh] bg-gradient-to-tr from-yellow-200 to-pink-500 flex flex-col items-center gap-[8vh] rounded-[10px]'>
+      <div className='sm:w-[30vh] 2xl:w-[35vh] xl:w-[35vh] w-[25vh] md:w-[25vh] md:w-[25vh] h-[30vh] bg-gradient-to-tr from-yellow-200 to-pink-500 flex flex-col items-center gap-[8vh] rounded-[10px]'>
       <RiTailwindCssFill  className='font-bold text-cyan-300 text-center text-[10vh] mt-[3vh] transition-all hover:scale-[1.3] hover:skew-y-6'/>
 
       <p className='text-center font-bold tracking-wider'>Tailwind Css
@@ -34,7 +34,7 @@ function Skills() {
       </Tilt>
 
       <Tilt>
-      <div className='w-[30vh] md:w-[25vh] h-[30vh] bg-gradient-to-tr from-pink-500 to-green-500 flex flex-col items-center rounded-[10px]'>
+      <div className='sm:w-[30vh] 2xl:w-[35vh] xl:w-[35vh] w-[25vh] md:w-[25vh] h-[30vh] bg-gradient-to-tr from-pink-500 to-green-500 flex flex-col items-center rounded-[10px]'>
       <IoLogoJavascript className='font-bold text-yellow-200 text-center text-[10vh] mt-[3vh] transition-all hover:scale-[1.3] hover:skew-y-6'/>
 
       <p className='text-center mt-[10vh] font-bold tracking-wider text-yellow-300'>Java Script
@@ -45,7 +45,7 @@ function Skills() {
       </Tilt>
 
       <Tilt>
-      <div className='w-[30vh] md:w-[25vh] h-[30vh] bg-gradient-to-tr from-black to-yellow-200 flex flex-col items-center rounded-[10px]'>
+      <div className='sm:w-[30vh] 2xl:w-[35vh] xl:w-[35vh] w-[25vh] md:w-[25vh] h-[30vh] bg-gradient-to-tr from-black to-yellow-200 flex flex-col items-center rounded-[10px]'>
       <FaReact className='font-bold text-cyan-300 text-center text-[10vh] mt-[3vh] transition-all hover:scale-[1.3] hover:skew-y-6'/>
 
       <p className='text-center mt-[10vh] font-bold tracking-wider'>REACT JS
@@ -57,7 +57,7 @@ function Skills() {
 
 
       <Tilt>
-      <div className='w-[30vh] md:w-[25vh] h-[30vh] bg-gradient-to-tr from-pink-500 to-orange-400 flex flex-col items-center rounded-[10px]'>
+      <div className='w-[25vh] sm:w-[30vh] 2xl:w-[35vh] xl:w-[35vh] md:w-[25vh] h-[30vh] bg-gradient-to-tr from-pink-500 to-orange-400 flex flex-col items-center rounded-[10px]'>
       <FaCss3Alt  className='ml-2 font-bold text-blue-700 text-center text-[10vh] mt-[3vh] transition-all hover:scale-[1.3] hover:skew-y-6'/>
 
       <p className='text-center mt-[10vh] font-bold tracking-wider text-blue-700'>CSS
@@ -68,7 +68,7 @@ function Skills() {
       </Tilt>
 
       <Tilt>
-      <div className='w-[30vh] md:w-[25vh] h-[30vh] bg-gradient-to-tr from-pink-500 to-yellow-200 flex flex-col items-center rounded-[10px]'>
+      <div className='sm:w-[30vh] 2xl:w-[35vh] xl:w-[35vh] w-[25vh] md:w-[25vh] h-[30vh] bg-gradient-to-tr from-pink-500 to-yellow-200 flex flex-col items-center rounded-[10px]'>
       <TbBrandThreejs className='font-bold text-center text-[10vh] hover:scale-[1.3] mt-[3vh] transition-all hover:skew-y-6'/>
 
       <p className='text-center mt-[10vh] font-bold tracking-wider'>THREE JS
